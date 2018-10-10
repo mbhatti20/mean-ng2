@@ -1,0 +1,33 @@
+{
+  "name": "mean-ng2",
+  "version": "1.0.0",
+  "description": "mean stack tut app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbhatti20/mean-tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "manish bhatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbhatti20/mean-tutorial/issues"
+  },
+  "homepage": "https://github.com/mbhatti20/mean-tutorial#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.6",
+    "morgan": "^1.9.1",
+    "rxjs": "^6.3.3",
+    "rxjs-compat": "^6.3.3"
+  }
+}
