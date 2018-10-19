@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/mbhatti20/mean-tutorial#readme",
   "dependencies": {
+    "@auth0/angular-jwt": "^2.0.0",
+    "angular2-flash-messages": "^3.0.1",
     "bcrypt-nodejs": "0.0.3",
     "cors": "^2.8.4",
     "express": "^4.16.3",
