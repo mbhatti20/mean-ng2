@@ -1,1 +1,1 @@
-# mean-tutorial
+# blog with mean stack
